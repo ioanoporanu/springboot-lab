@@ -11,3 +11,7 @@ debug: true
 spring:
   profiles: prod
 debug: false
+
+---
+
+feed.filename: demo.feed
